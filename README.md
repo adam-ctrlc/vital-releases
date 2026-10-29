@@ -1,11 +1,10 @@
 # VITAL for Android
 
-VITAL is the transformer alert management system for the 1 kVA distribution transformer at
-PHINMA Cagayan de Oro College: live voltage, current, load and temperature readings, alerts the
-moment a threshold is crossed, relay control and a full history of every reading.
+VITAL is a transformer alert management system: live voltage, current, load and temperature
+readings, alerts the moment a threshold is crossed, relay control, and a full history of every
+reading.
 
-This repository only hosts the **Android app downloads and updates**. The source code is at
-[adam-ctrlc/vital](https://github.com/adam-ctrlc/vital). The website is at
+This repository hosts the **Android app downloads and updates**. VITAL also runs in any browser at
 [vitalcoc.vercel.app](https://vitalcoc.vercel.app).
 
 ## Download
