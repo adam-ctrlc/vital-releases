@@ -47,3 +47,7 @@ If a new version ever fails to start, VITAL goes back to the last version that w
 - `f-<hash>` files: the app's files, each named by its content hash, so phones only download
   what changed.
 - `vital-vX.Y.Z.apk`: the Android app, on releases that need one.
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
